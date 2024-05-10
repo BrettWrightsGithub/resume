@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 import io
 from PIL import Image, ImageOps, ImageDraw
 from openai import OpenAI
