@@ -1,0 +1,5 @@
+resume-1/
+├── app.py  # main script, can be minimal
+└── pages/  # directory for pages
+    ├── resume.py
+    └── ai_note_reviewer.py

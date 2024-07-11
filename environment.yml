@@ -1,0 +1,12 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - pip
+  - numpy
+  - pillow
+  - altair
+  - pip:
+    - streamlit==1.8.0
